@@ -21,13 +21,25 @@ mountain(1);
 flat(6);
 mountain(10);
 flat(6);
+mountain(4);
+flat(6);
+mountain(4);
+flat(6);
+mountain(4);
+flat(6);
+mountain(4);
+flat(6);
+mountain(4);
+flat(6);
+mountain(10);
+flat(6);
 return result;
 };
 
 console.log(landscape());
 /*
 
-___/''''\______/'\______/''''''''''\______
+___/''''\______/'\______/''''''''''\______/''''\______/''''\______/''''\______/''''\______/''''\______/''''''''''\______
 
 */
 
