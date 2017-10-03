@@ -1,0 +1,8 @@
+onLogisch functioneren
+
+var landscape = function(){
+  var result = "";
+  var flat = function(size){
+    for (var count =; count < size; count++)
+       result = "_";
+};
