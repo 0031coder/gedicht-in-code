@@ -16,13 +16,16 @@ var mountain = function(size){
 
 flat(3);
 mountain(4);
+
 return result;
 };
 
 console.log(landscape());
 /*
 
+
 ___/''''\
+
 */
 
 
