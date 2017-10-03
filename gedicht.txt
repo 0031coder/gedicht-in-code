@@ -14,3 +14,11 @@ var mountain = function(size){
     result += "\\";
 };
 
+flat(3);
+mountain(4);
+flat(6);
+mountain(1);
+flat(1);
+return result;
+};
+
