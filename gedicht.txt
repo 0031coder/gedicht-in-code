@@ -16,31 +16,19 @@ var mountain = function(size){
 
 flat(3);
 mountain(4);
-flat(6);
-mountain(1);
-flat(6);
-mountain(10);
-flat(6);
-mountain(4);
-flat(6);
-mountain(4);
-flat(6);
-mountain(4);
-flat(6);
-mountain(4);
-flat(6);
-mountain(4);
-flat(6);
-mountain(10);
-flat(6);
+
 return result;
 };
 
 console.log(landscape());
 /*
 
-___/''''\______/'\______/''''''''''\______/''''\______/''''\______/''''\______/''''\______/''''\______/''''''''''\______
+
+___/''''\
 
 */
+
+
+Tadadadiediedom
 
 
