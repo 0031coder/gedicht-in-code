@@ -6,3 +6,11 @@ var landscape = function(){
     for (var count =; count < size; count++)
        result = "_";
 };
+
+var mountain = function(size){
+  result += "/";
+  for (var count = 0; count < size; count++)
+    result += "'";
+    result += "\\";
+};
+
